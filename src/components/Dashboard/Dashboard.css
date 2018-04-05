@@ -1,0 +1,66 @@
+ .contacts {
+    text-align: center;
+    margin: 0 auto; 
+
+  }
+  .mdl-layout__tab-bar{
+    width: 100%;
+  }
+  /* .list-image{
+    width: 50px;
+    height: 50px;
+  } */
+  .search-field {
+    width: 100%;
+    font-size: 16px;
+  }
+  .myprofile-style-dashboard{
+    margin-left: 5px;
+  }
+  .search-input{
+    width: 400px;
+    margin: 7px 0 5px 5px;
+  }
+  .mdl-layout__tab-bar {
+    background-color: #5987da;
+    height: 65px;
+
+  }
+  /* .map-stype-dashboard :hover{
+    background-color: red;
+  } */
+
+  /* .contacts-list {
+    padding: 0;
+  } */
+  
+  .contact {
+    /* display: flex;
+    align-items: center; */
+    font-family: sans-serif;
+
+  }
+  
+  .contact-image {
+     float: left;  
+      width: 100px;
+      height: 100px;
+      border-radius: 30%;
+  }
+  
+  .contact-name {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    /* float: right; */
+  }
+  .contact-info{
+    float: left;
+  }
+  .contact-number {
+    font-size: 18px;
+    color: grey;
+  } 
+ .map-list-components{
+   margin-right: 5px;
+ }

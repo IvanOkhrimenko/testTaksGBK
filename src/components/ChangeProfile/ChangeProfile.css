@@ -1,0 +1,25 @@
+
+.content-grid {
+  max-width: 960px;
+}
+.inputt{
+    width: 300px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    
+}
+.mdl-radio{
+    margin:10px 20px 0px 0px;
+    padding-right: 4px;
+}
+
+.mdl-button-end{
+display: flex;
+height: 234px;
+width: 300px;
+justify-content: flex-end;
+align-items: flex-end;
+}
+.hange-profile-right-part{
+    margin-left: 50px;
+}

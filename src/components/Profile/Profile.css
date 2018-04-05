@@ -1,0 +1,13 @@
+.mdl-cell--2-col>div{
+    margin-bottom: 20px;
+}
+.mdl-gender::first-letter {
+    text-transform: uppercase;
+}
+.mdl-link-edit{
+    margin-right: 5px;
+}
+a {
+    color:white;
+    font-weight: 500;
+}

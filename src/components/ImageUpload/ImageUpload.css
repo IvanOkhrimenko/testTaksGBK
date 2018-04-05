@@ -1,0 +1,17 @@
+
+.profileImg{
+    height: 330px;
+    width: 330px;
+}
+
+.choose{
+    margin-top: 20px;
+    width: 250px;
+    margin-left: 40px;
+}
+.mdl-grid.center-items {
+    justify-content: center;
+  }
+  .mdl-left{
+      float: left;
+  }
