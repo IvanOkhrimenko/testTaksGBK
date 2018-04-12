@@ -17,7 +17,8 @@ class Home extends Component {
 
   onNameInputChange(event) {
     this.setState({
-      first_name: event.target.value
+      first_name: event.target.value,
+      username:event.target.value
 
     });
     console.log(event.target.value);
